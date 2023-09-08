@@ -1,0 +1,10 @@
+.theme-dark,
+.theme-dark a {
+    background-color: #262626;
+    color: #fff;
+}
+
+.app {
+    width: 100%;
+    height: 100vh;
+}
